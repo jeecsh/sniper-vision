@@ -1,9 +1,6 @@
 # 🎯 Sniper Vision
 
-<video width="100%" controls>
-  <source src="media/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo](media/demo.gif)
 
 Sniper Vision is a Raspberry Pi-based AI system that uses real-time **head detection**, **optical flow**, and **Kalman filtering** to detect and track a human forehead. This project is a prototype aimed at educational and research purposes.
 
